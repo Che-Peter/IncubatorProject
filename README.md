@@ -10,7 +10,7 @@ The project combines **embedded electronics, PCB design, sensor integration, and
 - Designed a **DC‑based incubator** with a small internal changeover:
   - One supply charged the battery.
   - The other powered the system directly.
-  - battery is resuse when mains is not available
+  - Battery takes over when mains is unavailable.
 - Early issues:
   - PCB power traces burned out.
   - DHT22 sensor entered non‑responsive states.
@@ -21,8 +21,11 @@ The project combines **embedded electronics, PCB design, sensor integration, and
   - Restored sensor and communication stability.
 - Results:
   - Started with 25 eggs → 23 hatched.
-  - 5 chicks died during growth → **18 healthy chicks sold (weeks old)**.
+  - 5 chicks died during growth → **18 healthy chicks sold**.
   - Collected real temperature/humidity data for analysis.
+
+![30 Eggs Test](Images/30 eggs version during testing.jpg)
+![Start of Hatching](Images/start of hatching for 30 eggs incubator.jpg)
 
 ---
 
@@ -33,8 +36,22 @@ The project combines **embedded electronics, PCB design, sensor integration, and
   - Sensor stability.
   - Environmental control (temperature, humidity, airflow).
 - Integrated monitoring and logging via **Delphi desktop app**.
-- Tested with 50 eggs
-- Had 42 successful hatch
+- Tested with 50 eggs → **42 hatched successfully**.
+
+![Construction](Images/construction of 1,200 eggs incubator.jpg)
+
+---
+
+## Hatch Results
+![23 Successful Hatch](Images/23 successful hatch.jpg)
+![42 Chicks](Images/42 chicks from a 50 eggs test of the new incubtor.jpg)
+
+---
+
+## PCB & Interface
+![PCB Front](Images/3D front for main PCB.png)
+![PCB Back](Images/3d_back_for_main_PCB.png)
+![Main Interface](Images/main interface.png)
 
 ---
 
@@ -48,18 +65,18 @@ The project combines **embedded electronics, PCB design, sensor integration, and
 ---
 
 ## Repository Contents
-- `/Prototype30Egg` → Arduino code, schematics, data logs.   
-- `/Schematics` → PCB and circuit diagrams.  
-- `/Data` → CSV logs and plots.  
-- `/Images` → Photos of prototypes, scaled incubator, and chicks.  
+- `/Codes` → Arduino firmware, Delphi app, supporting scripts.  
+- `/schematic and PCB` → PCB layouts, circuit diagrams, Proteus projects.  
+- `/estimate` → Cost breakdown and project planning.  
+- `/Images` → Photos of prototypes, scaled incubator, and hatch results.  
 
 ---
 
 ## Lessons Learned
 - Difference between a **30‑minute prototype** and a **real‑life product**.  
 - Importance of **resilience and debugging** in real conditions.  
-- Engineering isn’t just schematics — it’s about solving problems and delivering results.
-- Current carrying abilities of different trace widths  
+- Engineering isn’t just schematics — it’s about solving problems and delivering results.  
+- Current‑carrying abilities of different trace widths.  
 
 ---
 
