@@ -47,12 +47,12 @@ The project combines **embedded electronics, PCB design, sensor integration, and
 - Integrated monitoring and logging via **Delphi desktop app**.
 - Tested with 50 eggs → **42 hatched successfully**.
 
-![Construction](Images/construction of 1200 eggs incubator.png)
+![Construction](Images/construction_of_1200_eggs_incubator.png)
 
 ---
 
 ## Hatch Results
-![23 Successful Hatch](Images/23 successful hatch.jpg)
+![23 Successful Hatch](Images/23_successful_hatch.jpg)
 ![42 Chicks](Images/42_chicks_from_a_50_eggs_test_of_the_new_incubtor.jpg)
 
 ---
