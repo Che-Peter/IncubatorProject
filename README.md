@@ -84,8 +84,8 @@ From Expanded incubator (pantaloons from)
 ---
 
 ## Initial application login
-name: che peter suh
-password: pete3
+- **name**: che peter suh.
+- **password**: pete3.
 
 ---
 ## License
