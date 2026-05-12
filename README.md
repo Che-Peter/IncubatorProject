@@ -24,8 +24,17 @@ The project combines **embedded electronics, PCB design, sensor integration, and
   - 5 chicks died during growth → **18 healthy chicks sold**.
   - Collected real temperature/humidity data for analysis.
 
-![30 Eggs Test](Images/30 eggs version during testing.jpg)
-![Start of Hatching](Images/start of hatching for 30 eggs incubator.jpg)
+---
+
+## PCBs and interface
+![Main PCB](Images/pch_view.png)
+![Power control PCB](Images/pcb_power_changeover.png)
+![Main App Interface](Images/main_interface.png)
+
+---
+
+![30 Eggs Test](Images/30_eggs_version_during_testing.jpg)
+![Start of Hatching](Images/start_of_hatching_for_30_eggs_incubator.jpg)
 
 ---
 
@@ -38,20 +47,13 @@ The project combines **embedded electronics, PCB design, sensor integration, and
 - Integrated monitoring and logging via **Delphi desktop app**.
 - Tested with 50 eggs → **42 hatched successfully**.
 
-![Construction](Images/construction of 1,200 eggs incubator.jpg)
+![Construction](Images/construction_of_1,200_eggs_incubator.jpg)
 
 ---
 
 ## Hatch Results
 ![23 Successful Hatch](Images/23 successful hatch.jpg)
-![42 Chicks](Images/42 chicks from a 50 eggs test of the new incubtor.jpg)
-
----
-
-## PCB & Interface
-![PCB Front](Images/3D front for main PCB.png)
-![PCB Back](Images/3d_back_for_main_PCB.png)
-![Main Interface](Images/main interface.png)
+![42 Chicks](Images/42_chicks_from_a_50_eggs_test_of_the_new_incubtor.jpg)
 
 ---
 
