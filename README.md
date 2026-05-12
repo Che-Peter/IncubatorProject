@@ -33,7 +33,8 @@ The project combines **embedded electronics, PCB design, sensor integration, and
   - Sensor stability.
   - Environmental control (temperature, humidity, airflow).
 - Integrated monitoring and logging via **Delphi desktop app**.
-- Achieved consistent hatch rates at scale.
+- Tested with 50 eggs
+- Had 42 successful hatch
 
 ---
 
