@@ -31,7 +31,7 @@ The project combines **embedded electronics, PCB design, sensor integration, and
 ![Power control PCB](Images/pcb_power_changeover.png)
 ![Main App Interface](Images/main_interface.png)
 
-## 30 Eggs Incubator
+## 30 Eggs Incubator (tested with pantaloons (Brahma))
 ![30 Eggs Test](Images/30_eggs_version.jpg)
 ![Start of Hatching](Images/start_of_hatching.png)
 
@@ -51,9 +51,9 @@ The project combines **embedded electronics, PCB design, sensor integration, and
 ---
 
 ## Hatch Results
-From 30 Eggs incubator
+From 30 Eggs incubator (pantaloons of Brahma)
 ![23 Successful Hatch](Images/23_successful_hatch.jpg)
-From Expanded incubator
+From Expanded incubator (pantaloons from)
 ![42 Chicks](Images/42_chicks_from_a_50_eggs_test_of_the_new_incubtor.jpg)
 
 ---
