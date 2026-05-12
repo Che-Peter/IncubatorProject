@@ -2,7 +2,7 @@
 
 ## Overview
 This repository documents my journey building a **poultry incubator system**, starting from a **30‑egg DC prototype** at the beginning of my Master’s program, and later expanding to a **1,200‑egg scaled system**.  
-The project combines **embedded electronics, PCB design, sensor integration, and wireless communication** to solve real‑world challenges in poultry hatching.
+The project combines **embedded electronics, PCB design, sensor integration, and wireless communication** to solve real‑world challenges in poultry hatching. 
 
 ---
 
@@ -63,7 +63,7 @@ From Expanded incubator (pantaloons from)
 - **Sensors**: DHT22 for temperature/humidity.
 - **Wireless**: NRF24L01 for desktop communication.  
 - **Software**: Delphi desktop app for monitoring and logging.  
-- **PCB Tools**: KiCad / Proteus / Altium Designer.  
+- **PCB Tools**: Proteus, Arduino IDE.  
 
 ---
 
@@ -83,5 +83,10 @@ From Expanded incubator (pantaloons from)
 
 ---
 
+## Initial application login
+name: che peter suh
+password: pete3
+
+---
 ## License
 This project is licensed under the [MIT License](LICENSE).
