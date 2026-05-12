@@ -31,8 +31,7 @@ The project combines **embedded electronics, PCB design, sensor integration, and
 ![Power control PCB](Images/pcb_power_changeover.png)
 ![Main App Interface](Images/main_interface.png)
 
----
-
+## 30 Eggs Incubator
 ![30 Eggs Test](Images/30_eggs_version.jpg)
 ![Start of Hatching](Images/start_of_hatching.png)
 
