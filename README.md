@@ -33,7 +33,7 @@ The project combines **embedded electronics, PCB design, sensor integration, and
 
 ---
 
-![30 Eggs Test](Images/30_eggs_version_during_testing.jpg)
+![30 Eggs Test](Images/30_eggs_version.jpg)
 ![Start of Hatching](Images/start_of_hatching_for_30_eggs_incubator.jpg)
 
 ---
