@@ -1,4 +1,4 @@
-# IncubatorProject 🐣
+# IncubatorProject
 
 ## Overview
 This repository documents my journey building a **poultry incubator system**, starting from a **30‑egg DC prototype** at the beginning of my Master’s program, and later expanding to a **1,200‑egg scaled system**.  
