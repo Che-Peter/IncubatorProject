@@ -25,6 +25,8 @@ The project combines **embedded electronics, PCB design, sensor integration, and
   - Collected real temperature/humidity data for analysis.
 
 ---
+## main view of incubator
+![Main view](Images/physical_look.png)
 
 ## PCBs and interface
 ![Main PCB](Images/pch_view.png)
