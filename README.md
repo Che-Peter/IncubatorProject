@@ -54,8 +54,6 @@ The project combines **embedded electronics, PCB design, sensor integration, and
 
 ## Hatch Results
 From 30 Eggs incubator (pantaloons of Brahma)
-![23 Successful Hatch](Images/23_successful_hatch.jpg)
-From Expanded incubator (pantaloons from)
 ![42 Chicks](Images/42_chicks_from_a_50_eggs_test_of_the_new_incubtor.jpg)
 
 ---
